@@ -1,0 +1,2 @@
+# qarminingco
+ Website for qarminingco 
